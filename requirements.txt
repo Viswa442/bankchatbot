@@ -1,3 +1,11 @@
+Flask
+sklearn
+scikit-learn
+numpy
+pandas
+streamlit
+opencv-python-headless
+numpy
 altair==4.2.2
 attrs==22.2.0
 blinker==1.6
@@ -46,3 +54,4 @@ urllib3==1.26.15
 validators==0.20.0
 watchdog==3.0.0
 zipp==3.15.0
+fsspec
