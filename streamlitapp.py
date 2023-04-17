@@ -9,8 +9,8 @@ import fsspec
 
 
 # Load the preprocessed data
-df=pd.read_csv("./BankFAQs.csv")
-df1=pd.read_csv("./BankFAQs1.csv",encoding='ISO-8859-1')
+df=pd.read_csv("./dffinal(1).csv")
+df1=pd.read_csv("./Bank_QA_C.csv",encoding='ISO-8859-1')
 
 data1=pd.concat([df1,df])
 
